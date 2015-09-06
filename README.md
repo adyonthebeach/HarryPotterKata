@@ -1,0 +1,2 @@
+# HarryPotterKata
+A Kata exercise
